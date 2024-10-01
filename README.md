@@ -43,9 +43,11 @@ Here are some of the projects I've worked on:
 ![patildhrup's github stats](https://github-readme-stats.vercel.app/api?username=patildhrup&show_icons=true&theme=dracula)
 
 ## 🌐 Connect with Me
-![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)
-![Slack](https://img.shields.io/badge/Slack-black?style=flat-square&logo=slack)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-username)
+[![Slack](https://img.shields.io/badge/Slack-black?style=flat-square&logo=slack)](https://your-slack-link)
+[![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)](https://your-discord-link)
+
 
 ## 🎨 My Interests
 - **Cricket**: A sport I love to play and watch. 🏏
