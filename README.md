@@ -40,7 +40,7 @@ Here are some of the projects I've worked on:
 ## 📊 My Progress
 
 ### stats
-![patildhrup's GitHub stats](https://github-readme-stats.vercel.app/api?username=patildhrup&show_icons=true&theme=radical)
+![patildhrup's GitHub stats](https://github-readme-stats.vercel.app/api?username=patildhrup&show_icons=true&theme=radical) [![GitHub Streak](https://streak-stats.demolab.com/?user=patildhrup&theme=radical)](https://git.io/streak-stats)
 
 ### Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patildhrup&layout=compact&show_icons=true&theme=radical)
