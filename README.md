@@ -1,6 +1,6 @@
 # Hii, I'm Dhrup Patil 👋
 
-![Header Image]([https://via.placeholder.com/800x100.png?text=Welcome](https://www.canva.com/templates/EAE5O3hutjQ-green-and-brown-simple-welcome-new-student-classroom-baner/))
+![Header Image](https://www.canva.com/templates/EAE5O3hutjQ-green-and-brown-simple-welcome-new-student-classroom-baner/)
 
 ## 🌟 About Me
 I'm an enthusiastic full-stack developer who enjoys bridging the gap between innovative ideas and real-world applications. With a strong passion for data science and machine learning, I thrive on solving complex problems and transforming data into actionable insights. I'm always eager to learn and embrace new technologies that enhance my skill set and contribute to impactful projects.
