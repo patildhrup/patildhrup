@@ -34,8 +34,6 @@ I'm an enthusiastic full-stack developer who enjoys bridging the gap between inn
 Here are some of the projects I've worked on:
 
 - [chessGm](https://github.com/patildhrup/chessGm) -  A real-time multiplayer chess game built with Node.js, Express, EJS, Socket.io, and Chess.js. It enables players to compete online with seamless move validation and interactive gameplay.
-- [Project 2](link-to-your-project) - A brief description of the project.
-- [Project 3](link-to-your-project) - A brief description of the project.
 
 ## 📊 My Progress
 
