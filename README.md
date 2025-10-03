@@ -41,6 +41,13 @@
 </p>
 
 ---
+## 🌐 GitHub Trophies 
+<p align="center">
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=patildhrup&theme=dark&no-frame=true&column=7" />
+</p>
+
+
 
 ## 🌐 Connect with Me  
 
