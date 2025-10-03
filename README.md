@@ -19,15 +19,11 @@
 ## 💻 Tech Stack  
 
 
-### 🚀 Languages & Frameworks  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,nodejs,express,mongodb,mysql,firebase,python,cpp,c" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,nodejs,express,mongodb,mysql,firebase,python,cpp,c,numpy,aws,docker,vercel,netlify,git,github,linux,vscode,postman,solidity,fastapi" />
 </p>
 
-### 🛠 Tools & Platforms  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,aws,docker,solidity,fastapi" />
-</p>
+
 
 
 
