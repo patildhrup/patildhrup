@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm Dhrup Patil  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=merko&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Data+Science+%26+Machine+Learning+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=87F707FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Data+Science+%26+Machine+Learning+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things!" alt="Typing SVG" />
 </p>
 
 
