@@ -1,7 +1,8 @@
-# 👋 Hey there! I'm Dhrup Patil  
+<h1 align="center">👋 Hey there! I'm Dhrup Patil</h1>
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=87F707FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Data+Science+%26+Machine+Learning+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=87F707FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Data+Science+%26+Machine+Learning+Enthusiast;DevOps+%26+Cloud+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things!" alt="Typing SVG" />
 </p>
 
 
@@ -60,3 +61,5 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
+
