@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm Dhrup Patil  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Data+Science+%26+Machine+Learning+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=merko&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Data+Science+%26+Machine+Learning+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things!" alt="Typing SVG" />
 </p>
 
 
@@ -23,8 +23,9 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,nodejs,express,mongodb,mysql,firebase,python,cpp,c,numpy,aws,docker,vercel,netlify,git,github,linux,vscode,postman,solidity,fastapi" />
 </p>
 
+## 🏆 GitHub Trophies 
 
-
+  [![trophy](https://github-profile-trophy.vercel.app/?username=patildhrup)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
@@ -32,20 +33,15 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=patildhrup&show_icons=true&theme=radical" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=patildhrup&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=patildhrup&show_icons=true&theme=merko" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=patildhrup&theme=merko" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patildhrup&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patildhrup&layout=compact&theme=merko" height="165"/>
 </p>
 
 ---
-## 🌐 GitHub Trophies 
-<p align="center">
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=patildhrup&theme=dark&no-frame=true&column=7" />
-</p>
 
 
 
