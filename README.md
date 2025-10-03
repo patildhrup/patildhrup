@@ -6,7 +6,6 @@
 </p>
 
 
-
 ---
 
 ## 🌟 About Me  
@@ -17,7 +16,7 @@
 
 ---
 
-## 💻 Tech Stack  
+## ✨ My Arsenal  
 
 
 <p align="center">
