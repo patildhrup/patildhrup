@@ -50,7 +50,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin-username"><img src="https://skillicons.dev/icons?i=linkedin" width="48px"/></a>
-  <a href="https://your-slack-link"><img src="https://skillicons.dev/icons?i=slack" width="48px"/></a>
+  <a href="https://app.slack.com/"><img src="https://skillicons.dev/icons?i=slack" width="48px"/></a>
   <a href="https://your-discord-link"><img src="https://skillicons.dev/icons?i=discord" width="48px"/></a>
 </p>
 
