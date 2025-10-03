@@ -28,12 +28,6 @@
 
 
 
-## 🚀 Projects  
-
-- 🎮 [**chessGm**](https://github.com/patildhrup/chessGm) →  
-  A **real-time multiplayer chess game** with move validation, built using **Node.js, Express, EJS, Socket.io, and Chess.js**.  
-
----
 
 ## 📊 GitHub Stats  
 
@@ -58,13 +52,6 @@
 </p>
 
 ---
-
-## 🎨 Interests  
-
-- 🏏 **Cricket** – Playing & watching!  
-- 🎶 **Music** – Always vibing to good tunes.  
-- 🌍 **Traveling** – Exploring new places & cultures.  
-
 
 
 <p align="center">
