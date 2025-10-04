@@ -20,7 +20,7 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,nodejs,express,mongodb,mysql,firebase,python,cpp,c,numpy,aws,docker,vercel,netlify,git,github,linux,vscode,postman,solidity,fastapi" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,nodejs,express,mongodb,mysql,ubuntu,postgres,ts,vite,vscode,firebase,python,bash,cpp,c,aws,docker,vercel,netlify,git,github,linux,vscode,postman,solidity,fastapi" />
 </p>
 
 ## 🏆 GitHub Trophies 
@@ -50,7 +50,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin-username"><img src="https://skillicons.dev/icons?i=linkedin" width="48px"/></a>
-  <a href="https://app.slack.com/"><img src="https://skillicons.dev/icons?i=slack" width="48px"/></a>
+  <a href="https://app.slack.com/"><img src="https://skillicons.dev/icons?i=notion" width="48px"/></a>
   <a href="https://your-discord-link"><img src="https://skillicons.dev/icons?i=discord" width="48px"/></a>
 </p>
 
