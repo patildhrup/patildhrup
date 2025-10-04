@@ -8,8 +8,8 @@
 
 ---
 
-## 🌟 About Me  
-✨ Enthusiastic **Full-Stack Developer** passionate about building impactful projects.  
+## 💫 About Me  
+🌟 Enthusiastic **Full-Stack Developer** passionate about building impactful projects.  
 💡 Love to explore **Data Science & Machine Learning** and turn ideas into **real-world apps**.  
 🚀 Curious learner, exploring **Blockchain, AI, and Cloud** technologies.  
 🎯 Goal: To build solutions that **connect innovation with practicality**.  
