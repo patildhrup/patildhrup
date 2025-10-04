@@ -20,8 +20,17 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,nodejs,express,mongodb,mysql,ubuntu,postgres,ts,vite,vscode,firebase,python,bash,cpp,c,aws,docker,vercel,netlify,git,github,linux,vscode,postman,solidity,fastapi" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,nodejs,express,mongodb,mysql,ubuntu,postgres,ts,vite,firebase,python,bash,cpp,c,aws,docker,vercel,netlify,git,github,linux,vscode,postman,solidity,fastapi" />
+  
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=canva,googlecolab,numpy,streamlit,powershell,seaborn,terminal,pandas,infura,ipfs,n8n,jupyter"
+    />
+  </a>
+  
 </p>
+
+
 
 ## 🏆 GitHub Trophies 
 
@@ -52,6 +61,9 @@
   <a href="https://www.linkedin.com/in/your-linkedin-username"><img src="https://skillicons.dev/icons?i=linkedin" width="48px"/></a>
   <a href="https://app.slack.com/"><img src="https://skillicons.dev/icons?i=notion" width="48px"/></a>
   <a href="https://your-discord-link"><img src="https://skillicons.dev/icons?i=discord" width="48px"/></a>
+  <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=x,slack,instagram"
+    />
 </p>
 
 ---
