@@ -24,7 +24,7 @@
   
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=canva,googlecolab,numpy,matplotlib,pandas,streamlit,seaborn,powershell,terminal,infura,ipfs,n8n,jupyter,chatgpt,leetcode,sqlite,huggingface,gsap,pbi,tensorflow,scikitlearn,socketio,solana,k8s,argocd,grafana,prometheus,nginx,redis"
+      src="https://go-skill-icons.vercel.app/api/icons?i=canva,googlecolab,numpy,matplotlib,pandas,streamlit,seaborn,powershell,terminal,infura,ipfs,n8n,jupyter,chatgpt,leetcode,sqlite,huggingface,gsap,pbi,tensorflow,scikitlearn,socketio,solana,githubactions,ansible,k8s,argocd,grafana,prometheus,nginx,redis"
     />
   </a>
   
