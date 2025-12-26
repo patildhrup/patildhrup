@@ -20,11 +20,11 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,nodejs,express,mongodb,mysql,ubuntu,postgres,ts,vite,firebase,python,bash,cpp,c,aws,docker,vercel,netlify,git,github,linux,vscode,postman,solidity,fastapi" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,nodejs,express,mongodb,mysql,ubuntu,postgres,ts,vite,firebase,python,bash,cpp,c,aws,docker,vercel,netlify,git,github,linux,vscode,postman,sqlite,fastapi" />
   
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=canva,googlecolab,numpy,matplotlib,pandas,streamlit,seaborn,powershell,terminal,infura,ipfs,n8n,jupyter,chatgpt,leetcode,sqlite,huggingface,gsap,pbi,tensorflow,scikitlearn,socketio,solana,githubactions,ansible,k8s,terraform,argocd,grafana,prometheus,nginx,redis"
+      src="https://go-skill-icons.vercel.app/api/icons?i=canva,googlecolab,numpy,matplotlib,pandas,streamlit,seaborn,powershell,terminal,jupyter,chatgpt,leetcode,huggingface,gsap,tensorflow,scikitlearn,socketio,githubactions,ansible,k8s,terraform,argocd,grafana,prometheus,nginx,redis"
     />
   </a>
   
